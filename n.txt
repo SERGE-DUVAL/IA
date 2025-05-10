@@ -1,0 +1,3 @@
+la somme des note est 338.0 
+la somme des coef est 22 
+la moyenne n est de 15.363636363636363 avec 8 matiere 
