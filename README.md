@@ -28,3 +28,12 @@ ssh -T git@github.com
 ```bash
 git push origin main
 ```
+## bibliotheque python a ajouter
+```python
+    import tkinter import simpledialog
+    import tkinter as tk
+    import speech_recognition as sr
+    import pyttsx3
+    import json
+    import os
+```
